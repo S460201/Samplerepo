@@ -1,10 +1,2 @@
- Volume in drive C has no label.
- Volume Serial Number is B0E1-5B5D
+ chertyish you
 
- Directory of C:\Users\lenovo\Desktop\Myproject
-
-12-08-2022  21:06    <DIR>          .
-12-08-2022  21:04    <DIR>          ..
-12-08-2022  21:06                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  160,977,022,976 bytes free
